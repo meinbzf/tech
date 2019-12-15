@@ -1,6 +1,6 @@
 "use strict";
 let aktuelleFrage = 0;
-const MAX_FRAGEN = 60;
+const MAX_FRAGEN = 231;
 const korrekteAntwort = 'a';
 
 verstecke(true);
